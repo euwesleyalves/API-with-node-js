@@ -2,6 +2,7 @@
   "name": "api-rest",
   "version": "1.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,14 +17,27 @@
   "description": "",
   "main": "api.js",
   "scripts": {
+=======
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+>>>>>>> 4d6a6c6 (Correção de rotas)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "module",
   "dependencies": {
     "express": "^5.2.1"
 >>>>>>> 71761d041603b8e2c670557bb4e56654bb9e9a39
+=======
+  "dependencies": {
+    "express": "^5.2.1"
+>>>>>>> 4d6a6c6 (Correção de rotas)
   }
 }
